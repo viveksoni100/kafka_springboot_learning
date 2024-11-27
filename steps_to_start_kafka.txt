@@ -7,3 +7,7 @@ Open another terminal session and run:
 
 # Start the Kafka broker service
 $ bin/kafka-server-start.sh config/server.properties
+
+bin/kafka-console-producer.sh --topic wikimedia_recentchange --bootstrap-server localhost:9092
+
+bin/kafka-console-consumer.sh --topic wikimedia_recentchange --from-beginning --bootstrap-server localhost:9092

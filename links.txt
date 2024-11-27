@@ -1,0 +1,5 @@
+https://esjewett.github.io/wm-eventsource-demo/
+
+https://stream.wikimedia.org/v2/stream/recentchange
+
+https://wikitech.wikimedia.org/wiki/Event_Platform/EventStreams_HTTP_Service
