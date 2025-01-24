@@ -1,3 +1,5 @@
+https://kafka.apache.org/quickstart
+
 https://esjewett.github.io/wm-eventsource-demo/
 
 https://stream.wikimedia.org/v2/stream/recentchange
